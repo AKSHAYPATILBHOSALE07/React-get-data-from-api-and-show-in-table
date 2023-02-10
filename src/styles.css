@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table {
+  table-layout: fixed;
+  /* width: 100%; */
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.row-ID {
+  width: 20px;
+}
+.row-name {
+  width: 100%;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
